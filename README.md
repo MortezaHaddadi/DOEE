@@ -1,2 +1,2 @@
 # DOEE
-DOEE building EnergyPlus simulation 
+DOEE building envelope EnergyPlus simulation 
