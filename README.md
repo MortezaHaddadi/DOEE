@@ -34,7 +34,7 @@ Because it is easy to see which patterns contribute the most to the cosine simil
 
 The whole process is illustrated below:
 
-![SAX-VSM in a nutshell](https://github.com/MortezaHaddadi/DOEE/blob/main/assets/DOEE1.png)
+!(https://github.com/MortezaHaddadi/DOEE/blob/main/assets/DOEE1.png)
 
 ### 1.0 Building
 The code is written in Java and I use maven to build it:
